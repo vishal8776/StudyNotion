@@ -46,11 +46,11 @@ const Footer = () => {
                   );
                 })}
               </div>
-              <div className="flex gap-3 text-lg">
-                <FaFacebook />
-                <FaGoogle />
-                <FaTwitter />
-                <FaYoutube />
+              <div className="flex gap-3 text-lg ">
+                <FaFacebook className="cursor-pointer hover:text-richblack-50 transition-all duration-200"/>
+                <FaGoogle className="cursor-pointer hover:text-richblack-50 transition-all duration-200"/>
+                <FaTwitter className="cursor-pointer hover:text-richblack-50 transition-all duration-200"/>
+                <FaYoutube className="cursor-pointer hover:text-richblack-50 transition-all duration-200"/>
               </div>
               <div></div>
             </div>
@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ CodeHelp © 2023 Studynotion</div>
+          <div className="text-center">Made by ❤️ Vishal Yadav © 2023 Studynotion</div>
         </div>
       </div>
     </div>

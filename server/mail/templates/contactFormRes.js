@@ -71,10 +71,10 @@ exports.contactUsEmail = (
       </style>
   
   </head>
-  
+  //https://studynotion-edtech-project.vercel.app
   <body>
       <div class="container">
-          <a href="https://studynotion-edtech-project.vercel.app"><img class="logo"
+          <a href="http://localhost:3000"><img class="logo"
                   src="https://i.ibb.co/7Xyj3PC/logo.png" alt="StudyNotion Logo"></a>
           <div class="message">Contact Form Confirmation</div>
           <div class="body">
