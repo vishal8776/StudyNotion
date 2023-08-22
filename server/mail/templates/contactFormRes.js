@@ -71,7 +71,6 @@ exports.contactUsEmail = (
       </style>
   
   </head>
-  //https://studynotion-edtech-project.vercel.app
   <body>
       <div class="container">
           <a href="http://localhost:3000"><img class="logo"
